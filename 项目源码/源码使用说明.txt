@@ -1,1 +1,1 @@
-使用idea打开即可
+open idea to see codes
